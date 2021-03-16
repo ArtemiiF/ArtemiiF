@@ -1,4 +1,4 @@
-Hi, I’m @ArtemiiF fron Saint-Petersburg, Russia
+Hi, I’m @ArtemiiF from Saint-Petersburg, Russia
 I’m currently learning computer science in ETU.(Actually it's name Information systems and technologies, but i think it's simular)
 Contact me:
   twitter @ss_126_
