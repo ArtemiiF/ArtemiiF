@@ -1,0 +1,10 @@
+Hi, I’m @ArtemiiF fron Saint-Petersburg, Russia
+I’m currently learning computer science in ETU.(Actually it's named Information systems and technologies, but i think it's simular)
+Contact me:
+  twitter @ss_126_
+  email a.filanovskii@yandex.ru
+
+<!---
+ArtemiiF/ArtemiiF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
