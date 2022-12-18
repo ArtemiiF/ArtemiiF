@@ -1,5 +1,5 @@
-Hi, I’m @ArtemiiF from Saint-Petersburg, Russia
-I’m currently studying computer science in ETU.(Actually it's name Information systems and technologies, but i think it's simular)
+Hi from Saint-Petersburg, Russia
+asp.net, angular, gaming
 Contact me:  
 telegram:@ArtemiiF  
 email:a.filanovskii@yandex.ru
