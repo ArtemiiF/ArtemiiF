@@ -1,5 +1,7 @@
 Hi from Saint-Petersburg, Russia
+
 asp.net, angular, gaming
+
 Contact me:  
 telegram:@ArtemiiF  
 email:a.filanovskii@yandex.ru
